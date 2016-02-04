@@ -1,0 +1,713 @@
+(<layer> 0.1 )
+(<rotation> (6.12323399574e-17+1j) )
+(<nestedRing>)
+(<boundaryPerimeter>)
+(<boundaryPoint> X-9.386 Y35.744 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-9.165 Y34.027 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-8.827 Y32.33 Z0.1 </boundaryPoint>)
+M73 P24 (display progress)
+(<boundaryPoint> X-8.371 Y30.66 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-7.802 Y29.025 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-7.12 Y27.434 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-5.604 Y24.636 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-5.203 Y24.044 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-4.35 Y22.507 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-3.697 Y20.874 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-3.253 Y19.173 Z0.1 </boundaryPoint>)
+M73 P25 (display progress)
+(<boundaryPoint> X-3.112 Y18.305 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-2.997 Y16.771 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-2.994 Y-16.504 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-3.196 Y-18.74 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-3.586 Y-20.455 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-4.188 Y-22.106 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-4.566 Y-22.901 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-6.659 Y-26.465 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-7.409 Y-28.025 Z0.1 </boundaryPoint>)
+M73 P26 (display progress)
+(<boundaryPoint> X-8.049 Y-29.634 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-8.576 Y-31.282 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-8.988 Y-32.964 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-9.282 Y-34.669 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-9.501 Y-37.256 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-9.514 Y-57.409 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.494 Y-57.409 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.477 Y-37.143 Z0.1 </boundaryPoint>)
+M73 P27 (display progress)
+(<boundaryPoint> X9.354 Y-35.416 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.111 Y-33.702 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X8.75 Y-32.009 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X8.273 Y-30.345 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X7.682 Y-28.718 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X6.98 Y-27.136 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X5.604 Y-24.631 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X4.7 Y-23.187 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.957 Y-21.594 Z0.1 </boundaryPoint>)
+M73 P28 (display progress)
+(<boundaryPoint> X3.42 Y-19.919 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.098 Y-18.191 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.018 Y-17.315 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.006 Y16.496 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.118 Y18.191 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.441 Y19.919 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X3.978 Y21.594 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X4.72 Y23.187 Z0.1 </boundaryPoint>)
+M73 P29 (display progress)
+(<boundaryPoint> X6.506 Y26.173 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X7.276 Y27.724 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X7.937 Y29.324 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X8.486 Y30.965 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X8.92 Y32.641 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.236 Y34.343 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.434 Y36.063 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X9.514 Y57.409 Z0.1 </boundaryPoint>)
+(<boundaryPoint> X-9.494 Y57.409 Z0.1 </boundaryPoint>)
+M73 P30 (display progress)
+(<boundaryPoint> X-9.487 Y37.472 Z0.1 </boundaryPoint>)
+(<edge> outer )
+G1 X-9.31 Y-57.2 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-9.31 Y-57.21 Z0.1 F540.0 E{}
+G1 X9.29 Y-57.21 Z0.1 F540.0 E{}
+M73 P31 (display progress)
+G1 X9.28 Y-37.15 Z0.1 F540.0 E{}
+G1 X9.15 Y-35.44 Z0.1 F540.0 E{}
+G1 X8.91 Y-33.74 Z0.1 F540.0 E{}
+G1 X8.56 Y-32.06 Z0.1 F540.0 E{}
+G1 X8.08 Y-30.41 Z0.1 F540.0 E{}
+G1 X7.5 Y-28.79 Z0.1 F540.0 E{}
+G1 X6.8 Y-27.23 Z0.1 F540.0 E{}
+G1 X5.43 Y-24.73 Z0.1 F540.0 E{}
+M73 P32 (display progress)
+G1 X4.52 Y-23.28 Z0.1 F540.0 E{}
+G1 X3.77 Y-21.67 Z0.1 F540.0 E{}
+G1 X3.23 Y-19.97 Z0.1 F540.0 E{}
+G1 X2.9 Y-18.22 Z0.1 F540.0 E{}
+G1 X2.82 Y-17.32 Z0.1 F540.0 E{}
+G1 X2.81 Y16.5 Z0.1 F540.0 E{}
+G1 X2.92 Y18.22 Z0.1 F540.0 E{}
+G1 X3.25 Y19.97 Z0.1 F540.0 E{}
+G1 X3.79 Y21.67 Z0.1 F540.0 E{}
+M73 P33 (display progress)
+G1 X4.54 Y23.28 Z0.1 F540.0 E{}
+G1 X6.33 Y26.27 Z0.1 F540.0 E{}
+G1 X7.09 Y27.81 Z0.1 F540.0 E{}
+G1 X7.75 Y29.39 Z0.1 F540.0 E{}
+G1 X8.29 Y31.02 Z0.1 F540.0 E{}
+G1 X8.72 Y32.68 Z0.1 F540.0 E{}
+G1 X9.04 Y34.37 Z0.1 F540.0 E{}
+G1 X9.23 Y36.08 Z0.1 F540.0 E{}
+M73 P34 (display progress)
+G1 X9.31 Y57.21 Z0.1 F540.0 E{}
+G1 X-9.29 Y57.21 Z0.1 F540.0 E{}
+G1 X-9.29 Y37.48 Z0.1 F540.0 E{}
+G1 X-9.19 Y35.76 Z0.1 F540.0 E{}
+G1 X-8.97 Y34.06 Z0.1 F540.0 E{}
+G1 X-8.63 Y32.38 Z0.1 F540.0 E{}
+G1 X-8.18 Y30.72 Z0.1 F540.0 E{}
+G1 X-7.62 Y29.1 Z0.1 F540.0 E{}
+G1 X-6.94 Y27.52 Z0.1 F540.0 E{}
+M73 P35 (display progress)
+G1 X-5.43 Y24.74 Z0.1 F540.0 E{}
+G1 X-5.03 Y24.15 Z0.1 F540.0 E{}
+G1 X-4.17 Y22.59 Z0.1 F540.0 E{}
+G1 X-3.51 Y20.94 Z0.1 F540.0 E{}
+G1 X-3.06 Y19.21 Z0.1 F540.0 E{}
+G1 X-2.91 Y18.33 Z0.1 F540.0 E{}
+G1 X-2.8 Y16.78 Z0.1 F540.0 E{}
+G1 X-2.79 Y-16.51 Z0.1 F540.0 E{}
+M73 P36 (display progress)
+G1 X-3.0 Y-18.77 Z0.1 F540.0 E{}
+G1 X-3.39 Y-20.51 Z0.1 F540.0 E{}
+G1 X-4.0 Y-22.18 Z0.1 F540.0 E{}
+G1 X-4.39 Y-23.0 Z0.1 F540.0 E{}
+G1 X-6.48 Y-26.56 Z0.1 F540.0 E{}
+G1 X-7.23 Y-28.11 Z0.1 F540.0 E{}
+G1 X-7.86 Y-29.7 Z0.1 F540.0 E{}
+G1 X-8.38 Y-31.34 Z0.1 F540.0 E{}
+G1 X-8.79 Y-33.01 Z0.1 F540.0 E{}
+M73 P37 (display progress)
+G1 X-9.08 Y-34.69 Z0.1 F540.0 E{}
+G1 X-9.3 Y-37.27 Z0.1 F540.0 E{}
+G1 X-9.31 Y-57.2 Z0.1 F540.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F540.0
+M103
+(</edge>)
+M73 P38 (display progress)
+(</boundaryPerimeter>)
+(<loop> outer )
+;M108 R16.0
+G1 X-8.91 Y-56.8 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-8.91 Y-56.81 Z0.1 F1080.0 E{}
+M73 P39 (display progress)
+G1 X8.89 Y-56.81 Z0.1 F1080.0 E{}
+G1 X8.88 Y-37.16 Z0.1 F1080.0 E{}
+G1 X8.76 Y-35.48 Z0.1 F1080.0 E{}
+G1 X8.52 Y-33.81 Z0.1 F1080.0 E{}
+G1 X8.17 Y-32.15 Z0.1 F1080.0 E{}
+G1 X7.7 Y-30.53 Z0.1 F1080.0 E{}
+G1 X7.13 Y-28.94 Z0.1 F1080.0 E{}
+G1 X6.44 Y-27.4 Z0.1 F1080.0 E{}
+M73 P40 (display progress)
+G1 X5.09 Y-24.93 Z0.1 F1080.0 E{}
+G1 X4.17 Y-23.47 Z0.1 F1080.0 E{}
+G1 X3.4 Y-21.81 Z0.1 F1080.0 E{}
+G1 X2.84 Y-20.07 Z0.1 F1080.0 E{}
+G1 X2.5 Y-18.27 Z0.1 F1080.0 E{}
+G1 X2.42 Y-17.34 Z0.1 F1080.0 E{}
+G1 X2.41 Y16.52 Z0.1 F1080.0 E{}
+G1 X2.52 Y18.27 Z0.1 F1080.0 E{}
+G1 X2.86 Y20.07 Z0.1 F1080.0 E{}
+M73 P41 (display progress)
+G1 X3.42 Y21.81 Z0.1 F1080.0 E{}
+G1 X4.19 Y23.47 Z0.1 F1080.0 E{}
+G1 X5.98 Y26.46 Z0.1 F1080.0 E{}
+G1 X6.73 Y27.97 Z0.1 F1080.0 E{}
+G1 X7.38 Y29.53 Z0.1 F1080.0 E{}
+G1 X7.91 Y31.14 Z0.1 F1080.0 E{}
+G1 X8.33 Y32.77 Z0.1 F1080.0 E{}
+G1 X8.64 Y34.43 Z0.1 F1080.0 E{}
+G1 X8.83 Y36.1 Z0.1 F1080.0 E{}
+M73 P42 (display progress)
+G1 X8.91 Y56.81 Z0.1 F1080.0 E{}
+G1 X-8.89 Y56.81 Z0.1 F1080.0 E{}
+G1 X-8.89 Y37.49 Z0.1 F1080.0 E{}
+G1 X-8.79 Y35.8 Z0.1 F1080.0 E{}
+G1 X-8.57 Y34.12 Z0.1 F1080.0 E{}
+G1 X-8.24 Y32.47 Z0.1 F1080.0 E{}
+G1 X-7.8 Y30.84 Z0.1 F1080.0 E{}
+G1 X-7.24 Y29.24 Z0.1 F1080.0 E{}
+M73 P43 (display progress)
+G1 X-6.58 Y27.7 Z0.1 F1080.0 E{}
+G1 X-5.09 Y24.95 Z0.1 F1080.0 E{}
+G1 X-4.69 Y24.36 Z0.1 F1080.0 E{}
+G1 X-3.81 Y22.77 Z0.1 F1080.0 E{}
+G1 X-3.13 Y21.06 Z0.1 F1080.0 E{}
+G1 X-2.67 Y19.3 Z0.1 F1080.0 E{}
+G1 X-2.52 Y18.38 Z0.1 F1080.0 E{}
+G1 X-2.4 Y16.79 Z0.1 F1080.0 E{}
+G1 X-2.39 Y-16.53 Z0.1 F1080.0 E{}
+M73 P44 (display progress)
+G1 X-2.6 Y-18.83 Z0.1 F1080.0 E{}
+G1 X-3.01 Y-20.63 Z0.1 F1080.0 E{}
+G1 X-3.63 Y-22.34 Z0.1 F1080.0 E{}
+G1 X-4.04 Y-23.18 Z0.1 F1080.0 E{}
+G1 X-6.13 Y-26.75 Z0.1 F1080.0 E{}
+G1 X-6.86 Y-28.27 Z0.1 F1080.0 E{}
+G1 X-7.48 Y-29.84 Z0.1 F1080.0 E{}
+G1 X-8.0 Y-31.45 Z0.1 F1080.0 E{}
+M73 P45 (display progress)
+G1 X-8.4 Y-33.09 Z0.1 F1080.0 E{}
+G1 X-8.69 Y-34.74 Z0.1 F1080.0 E{}
+G1 X-8.9 Y-37.28 Z0.1 F1080.0 E{}
+G1 X-8.91 Y-56.8 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+(</loop>)
+M73 P46 (display progress)
+(<infill>)
+(<infillBoundary>)
+(<infillPoint> X-8.788 Y35.8 Z0.1 </infillPoint>)
+(<infillPoint> X-8.573 Y34.124 Z0.1 </infillPoint>)
+(<infillPoint> X-8.243 Y32.468 Z0.1 </infillPoint>)
+(<infillPoint> X-7.798 Y30.838 Z0.1 </infillPoint>)
+(<infillPoint> X-7.242 Y29.242 Z0.1 </infillPoint>)
+(<infillPoint> X-6.579 Y27.696 Z0.1 </infillPoint>)
+M73 P47 (display progress)
+(<infillPoint> X-5.091 Y24.948 Z0.1 </infillPoint>)
+(<infillPoint> X-4.691 Y24.358 Z0.1 </infillPoint>)
+(<infillPoint> X-3.807 Y22.765 Z0.1 </infillPoint>)
+(<infillPoint> X-3.126 Y21.062 Z0.1 </infillPoint>)
+(<infillPoint> X-2.665 Y19.297 Z0.1 </infillPoint>)
+(<infillPoint> X-2.516 Y18.376 Z0.1 </infillPoint>)
+(<infillPoint> X-2.397 Y16.793 Z0.1 </infillPoint>)
+(<infillPoint> X-2.394 Y-16.531 Z0.1 </infillPoint>)
+(<infillPoint> X-2.602 Y-18.834 Z0.1 </infillPoint>)
+M73 P48 (display progress)
+(<infillPoint> X-3.009 Y-20.625 Z0.1 </infillPoint>)
+(<infillPoint> X-3.634 Y-22.338 Z0.1 </infillPoint>)
+(<infillPoint> X-4.035 Y-23.182 Z0.1 </infillPoint>)
+(<infillPoint> X-6.129 Y-26.747 Z0.1 </infillPoint>)
+(<infillPoint> X-6.859 Y-28.266 Z0.1 </infillPoint>)
+(<infillPoint> X-7.484 Y-29.836 Z0.1 </infillPoint>)
+(<infillPoint> X-7.998 Y-31.445 Z0.1 </infillPoint>)
+(<infillPoint> X-8.4 Y-33.086 Z0.1 </infillPoint>)
+M73 P49 (display progress)
+(<infillPoint> X-8.686 Y-34.745 Z0.1 </infillPoint>)
+(<infillPoint> X-8.901 Y-37.282 Z0.1 </infillPoint>)
+(<infillPoint> X-8.914 Y-56.809 Z0.1 </infillPoint>)
+(<infillPoint> X8.893 Y-56.809 Z0.1 </infillPoint>)
+(<infillPoint> X8.877 Y-37.165 Z0.1 </infillPoint>)
+(<infillPoint> X8.757 Y-35.48 Z0.1 </infillPoint>)
+(<infillPoint> X8.52 Y-33.807 Z0.1 </infillPoint>)
+(<infillPoint> X8.168 Y-32.154 Z0.1 </infillPoint>)
+(<infillPoint> X7.702 Y-30.53 Z0.1 </infillPoint>)
+M73 P50 (display progress)
+(<infillPoint> X7.125 Y-28.942 Z0.1 </infillPoint>)
+(<infillPoint> X6.442 Y-27.403 Z0.1 </infillPoint>)
+(<infillPoint> X5.086 Y-24.935 Z0.1 </infillPoint>)
+(<infillPoint> X4.172 Y-23.474 Z0.1 </infillPoint>)
+(<infillPoint> X3.397 Y-21.813 Z0.1 </infillPoint>)
+(<infillPoint> X2.837 Y-20.066 Z0.1 </infillPoint>)
+(<infillPoint> X2.503 Y-18.273 Z0.1 </infillPoint>)
+(<infillPoint> X2.418 Y-17.342 Z0.1 </infillPoint>)
+(<infillPoint> X2.406 Y16.516 Z0.1 </infillPoint>)
+M73 P51 (display progress)
+(<infillPoint> X2.522 Y18.266 Z0.1 </infillPoint>)
+(<infillPoint> X2.858 Y20.066 Z0.1 </infillPoint>)
+(<infillPoint> X3.418 Y21.813 Z0.1 </infillPoint>)
+(<infillPoint> X4.189 Y23.468 Z0.1 </infillPoint>)
+(<infillPoint> X5.979 Y26.461 Z0.1 </infillPoint>)
+(<infillPoint> X6.729 Y27.972 Z0.1 </infillPoint>)
+(<infillPoint> X7.375 Y29.534 Z0.1 </infillPoint>)
+(<infillPoint> X7.91 Y31.136 Z0.1 </infillPoint>)
+M73 P52 (display progress)
+(<infillPoint> X8.334 Y32.771 Z0.1 </infillPoint>)
+(<infillPoint> X8.642 Y34.432 Z0.1 </infillPoint>)
+(<infillPoint> X8.834 Y36.099 Z0.1 </infillPoint>)
+(<infillPoint> X8.912 Y56.809 Z0.1 </infillPoint>)
+(<infillPoint> X-8.894 Y56.809 Z0.1 </infillPoint>)
+(<infillPoint> X-8.887 Y37.49 Z0.1 </infillPoint>)
+(</infillBoundary>)
+G1 X-8.4 Y-34.73 Z0.1 F1620.0
+G1 F1200.0
+M73 P53 (display progress)
+G1 E{}
+G1 F1620.0
+M101
+G1 X-8.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P54 (display progress)
+G1 X-7.6 Y-31.12 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-7.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-8.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-8.0 Y-32.63 Z0.1 F1080.0 E{}
+G1 F1200.0
+M73 P55 (display progress)
+G1 E{}
+G1 F1080.0
+M103
+G1 X-6.8 Y-28.88 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+M73 P56 (display progress)
+G1 X-6.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-7.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-7.2 Y-29.88 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-6.0 Y-27.13 Z0.1 F1620.0
+G1 F1200.0
+M73 P57 (display progress)
+G1 E{}
+G1 F1620.0
+M101
+G1 X-6.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-6.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-6.4 Y-27.96 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+M73 P58 (display progress)
+G1 F1080.0
+M103
+G1 X-3.6 Y-22.92 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-3.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-4.0 Y-56.53 Z0.1 F1080.0 E{}
+M73 P59 (display progress)
+G1 X-4.0 Y-23.68 Z0.1 F1080.0 E{}
+G1 X-4.4 Y-24.36 Z0.1 F1080.0 E{}
+G1 X-4.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-4.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-4.8 Y-25.04 Z0.1 F1080.0 E{}
+G1 X-5.2 Y-25.72 Z0.1 F1080.0 E{}
+G1 X-5.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-5.6 Y-56.53 Z0.1 F1080.0 E{}
+M73 P60 (display progress)
+G1 X-5.6 Y-26.4 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-2.8 Y-20.87 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M73 P61 (display progress)
+M101
+G1 X-2.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-3.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-3.2 Y-21.96 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-2.4 Y-19.21 Z0.1 F1620.0
+M73 P62 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-2.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-2.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-2.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X-1.6 Y56.53 Z0.1 F1080.0 E{}
+M73 P63 (display progress)
+G1 X-1.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-1.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-1.2 Y56.53 Z0.1 F1080.0 E{}
+G1 X-0.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X-0.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-0.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X-0.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X0.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X-0.0 Y-56.53 Z0.1 F1080.0 E{}
+M73 P64 (display progress)
+G1 X0.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X0.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X0.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X0.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X1.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X1.2 Y56.53 Z0.1 F1080.0 E{}
+G1 X1.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X1.6 Y-56.53 Z0.1 F1080.0 E{}
+M73 P65 (display progress)
+G1 X2.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X2.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X2.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X2.4 Y19.14 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X2.8 Y20.8 Z0.1 F1620.0
+M73 P66 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X2.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X3.2 Y56.53 Z0.1 F1080.0 E{}
+G1 X3.2 Y22.01 Z0.1 F1080.0 E{}
+G1 F1200.0
+M73 P67 (display progress)
+G1 E{}
+G1 F1080.0
+M103
+G1 X3.6 Y22.87 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X3.6 Y56.53 Z0.1 F1080.0 E{}
+M73 P68 (display progress)
+G1 X4.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X4.0 Y23.7 Z0.1 F1080.0 E{}
+G1 X4.4 Y24.37 Z0.1 F1080.0 E{}
+G1 X4.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X4.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X4.8 Y25.04 Z0.1 F1080.0 E{}
+G1 X5.2 Y25.7 Z0.1 F1080.0 E{}
+G1 X5.2 Y56.53 Z0.1 F1080.0 E{}
+M73 P69 (display progress)
+G1 X5.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X5.6 Y26.37 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X6.0 Y27.13 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+M73 P70 (display progress)
+G1 F1620.0
+M101
+G1 X6.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X6.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X6.4 Y27.94 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P71 (display progress)
+G1 X6.8 Y28.88 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X6.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X7.2 Y56.53 Z0.1 F1080.0 E{}
+G1 X7.2 Y29.89 Z0.1 F1080.0 E{}
+M73 P72 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X7.6 Y31.09 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+M73 P73 (display progress)
+G1 X7.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X8.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X8.0 Y32.6 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X8.4 Y34.78 Z0.1 F1620.0
+M73 P74 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X8.4 Y56.53 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P75 (display progress)
+G1 X-2.4 Y56.53 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-2.4 Y19.39 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+M73 P76 (display progress)
+G1 F1080.0
+M103
+G1 X-2.8 Y20.92 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-2.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X-3.2 Y56.53 Z0.1 F1080.0 E{}
+M73 P77 (display progress)
+G1 X-3.2 Y22.0 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-3.6 Y22.97 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+M73 P78 (display progress)
+G1 F1620.0
+M101
+G1 X-3.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X-4.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X-4.0 Y23.68 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P79 (display progress)
+G1 X-4.4 Y24.39 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-4.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X-4.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X-4.8 Y25.1 Z0.1 F1080.0 E{}
+M73 P80 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-5.2 Y25.81 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+M73 P81 (display progress)
+G1 X-5.2 Y56.53 Z0.1 F1080.0 E{}
+G1 X-5.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X-5.6 Y26.52 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-6.0 Y27.24 Z0.1 F1620.0
+G1 F1200.0
+M73 P82 (display progress)
+G1 E{}
+G1 F1620.0
+M101
+G1 X-6.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X-6.4 Y56.53 Z0.1 F1080.0 E{}
+G1 X-6.4 Y27.99 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+M73 P83 (display progress)
+G1 F1080.0
+M103
+G1 X-6.8 Y28.92 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-6.8 Y56.53 Z0.1 F1080.0 E{}
+G1 X-7.2 Y56.53 Z0.1 F1080.0 E{}
+M73 P84 (display progress)
+G1 X-7.2 Y29.97 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X-7.6 Y31.18 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+M73 P85 (display progress)
+G1 F1620.0
+M101
+G1 X-7.6 Y56.53 Z0.1 F1080.0 E{}
+G1 X-8.0 Y56.53 Z0.1 F1080.0 E{}
+G1 X-8.0 Y32.68 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P86 (display progress)
+G1 X-8.4 Y34.98 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X-8.4 Y56.52 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+M73 P87 (display progress)
+G1 F1080.0
+M103
+G1 X2.4 Y-19.25 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X2.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X2.8 Y-56.53 Z0.1 F1080.0 E{}
+M73 P88 (display progress)
+G1 X2.8 Y-20.87 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X3.2 Y-22.05 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+M73 P89 (display progress)
+G1 F1620.0
+M101
+G1 X3.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X3.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X3.6 Y-22.91 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+M73 P90 (display progress)
+G1 X4.0 Y-23.73 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X4.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X4.4 Y-56.53 Z0.1 F1080.0 E{}
+G1 X4.4 Y-24.37 Z0.1 F1080.0 E{}
+G1 X4.8 Y-25.0 Z0.1 F1080.0 E{}
+M73 P91 (display progress)
+G1 X4.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X5.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X5.2 Y-25.72 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X5.6 Y-26.45 Z0.1 F1620.0
+M73 P92 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X5.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X6.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X6.0 Y-27.18 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+M73 P93 (display progress)
+G1 F1080.0
+M103
+G1 X6.4 Y-28.0 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X6.4 Y-56.53 Z0.1 F1080.0 E{}
+M73 P94 (display progress)
+G1 X6.8 Y-56.53 Z0.1 F1080.0 E{}
+G1 X6.8 Y-28.9 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+G1 X7.2 Y-29.97 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+M73 P95 (display progress)
+G1 F1620.0
+M101
+G1 X7.2 Y-56.53 Z0.1 F1080.0 E{}
+G1 X7.6 Y-56.53 Z0.1 F1080.0 E{}
+G1 X7.6 Y-31.19 Z0.1 F1080.0 E{}
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M73 P96 (display progress)
+M103
+G1 X8.0 Y-32.71 Z0.1 F1620.0
+G1 F1200.0
+G1 E{}
+G1 F1620.0
+M101
+G1 X8.0 Y-56.53 Z0.1 F1080.0 E{}
+G1 X8.4 Y-56.51 Z0.1 F1080.0 E{}
+G1 X8.4 Y-34.96 Z0.1 F1080.0 E{}
+M73 P97 (display progress)
+G1 F1200.0
+G1 E{}
+G1 F1080.0
+M103
+(</infill>)
+(</nestedRing>)
+(</rotation>)
+(</layer>)
